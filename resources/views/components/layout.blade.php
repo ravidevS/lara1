@@ -38,7 +38,7 @@
             </div>
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
               <div class="flex shrink-0 items-center">
-                <img class="h-8 w-auto" src="https://tailwindui.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500" alt="Your Company">
+                <img class="h-8 w-auto" src="https://dl.dropbox.com/scl/fi/vfxv5706dico7qkjtwfrd/techyviews-logo.png?rlkey=kxri9bmz7yt2tf7by2nh6yzqc&st=bow9yh8w&dl=0" alt="Your Company">
               </div>
               <div class="hidden sm:ml-6 sm:block">
                 <div class="flex space-x-4">
@@ -64,7 +64,7 @@
                   <button type="button" class="relative flex rounded-full bg-gray-800 text-sm focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 focus:outline-hidden" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                     <span class="absolute -inset-1.5"></span>
                     <span class="sr-only">Open user menu</span>
-                    <img class="size-8 rounded-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                    <img class="size-8 rounded-full" src="https://dl.dropbox.com/scl/fi/h7h8ighicq762qwefjs5y/141.jpg?rlkey=5hlq219wvpmcso7bcufbyq9fr&st=40m56rkb&dl=0" alt="">
                   </button>
                 </div>
 
