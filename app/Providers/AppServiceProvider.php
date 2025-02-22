@@ -22,3 +22,6 @@ class AppServiceProvider extends ServiceProvider
         //
     }
 }
+//PS C:\Users\sonti\Herd\lara1> git config --global user.email "ravidev.ravi.com"
+//>>   git config --global user.name "ravi-windows2"
+//PS C:\Users\sonti\Herd\lara1> 
